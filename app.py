@@ -339,7 +339,7 @@ st.set_page_config(
 )
 
 # Display the main application title
-st.title("Agentic Chatbot with LangGraph")
+st.title("🚀 Agentic Chatbot with LangGraph")
 
 
 # Create message_history when the app runs for the first time
